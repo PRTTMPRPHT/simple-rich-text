@@ -38,7 +38,7 @@ This yields the following result:
 ]
 ```
 
-This function can be used with any regular expression and any flag name, as long as it carries the "global" flag - and only that.
+This function can be used with any regular expression and any flag name, as long as it carries the "global" flag.
 
 ## Installing
 
